@@ -1,0 +1,23 @@
+{
+  "name": "infini-margin",
+  "version": "1.0.0",
+  "description": "",
+  "node-main": "index.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadnohra/infini-margin.git"
+  },
+  "author": "Jad Nohra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadnohra/infini-margin/issues"
+  },
+  "homepage": "https://github.com/jadnohra/infini-margin#readme",
+  "dependencies": {
+    "nw": "^0.15.0"
+  }
+}
